@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/NKEt9elQ5cR68/html5" object-fit="cover" width="50%"><img 
+<img align="center" src="img/400.webp" object-fit="cover" width="50%">
 
 <h3 align="left">Erdem Gençoğlu</h3>
 <p align="left">
@@ -10,10 +10,10 @@
 
 ### <h4 align="left">Notes</h4>
 ______________________________________________
-*💻 Full Stack Dev. at [Namet Gıda ](http://namet.com.tr/tr), Kocaeli/TÜRKİYE.
-*🦕 Love Android Development.
-*🔬 Interest Robotics,Iot,3D Printing etc.
-*🎓 Graduated Pamukkale University
+* 💻 Full Stack Dev. at [Namet Gıda ](http://namet.com.tr/tr), Kocaeli/TÜRKİYE.<br />
+* 🦕 Love Android Development.<br />
+* 🔬 Interest Robotics,Iot,3D Printing etc.<br />
+* 🎓 Graduated Pamukkale University<br />
 
 <h4 align="left">Development Languages</h4>
 <p align="left"> 
@@ -27,7 +27,7 @@ ______________________________________________
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="img/microsoft-sql-server.svg" alt="mssql" width="30" height="30"/> </a> 
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erdemgencoglu&show_icons=true&locale=en" alt="erdemgencoglu" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemgencoglu&show_icons=true&locale=en&layout=compact" alt="erdemgencoglu" /></p>
+<!--<p><br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemgencoglu&show_icons=true&locale=en&layout=compact" alt="erdemgencoglu" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemgencoglu&" alt="erdemgencoglu" /></p>
 </p>
 
