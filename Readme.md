@@ -1,4 +1,4 @@
-<img align="center" src="img/400.webp" object-fit="cover" width="50%">
+<div style="text-align:center"><img align="center" src="img/400.webp" object-fit="cover" width="50%"></div>
 
 <h3 align="left">Erdem Gençoğlu</h3>
 <p align="left">
