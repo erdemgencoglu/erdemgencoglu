@@ -1,4 +1,4 @@
-<div style="text-align:center"><img align="center" src="img/400.webp" object-fit="cover" width="50%"></div>
+<!--<div style="text-align:center"><img align="center" src="img/400.webp" object-fit="cover" width="50%"></div>-->
 
 <h3 align="left">Erdem Gençoğlu</h3>
 <p align="left">
@@ -25,7 +25,11 @@ ______________________________________________
 <a href="https://jquery.com/" target="_blank"> <img src="img/jquery.svg" alt="flutter" width="30" height="30"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="img/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="img/microsoft-sql-server.svg" alt="mssql" width="30" height="30"/> </a> 
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=erdemgencoglu&show_icons=true&locale=en" alt="erdemgencoglu" />
 </p>
+<p>
+&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=erdemgencoglu&count_private=true&show_icons=true&include_all_commits=true&count_private=true" alt="erdemgencoglu" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemgencoglu&layout=compact&langs_count=10" alt="erdemgencoglu" />
+</p>
+
 <!--<p><br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemgencoglu&show_icons=true&locale=en&layout=compact" alt="erdemgencoglu" /></p>-->
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemgencoglu&" alt="erdemgencoglu" /></p>-->
