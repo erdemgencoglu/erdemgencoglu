@@ -1,5 +1,5 @@
 # Hi, I'm Erdem</h1>
-### A Full Stack Developer from Turkey.I mostly using java technologies.</h3>
+### I'm working on Full Stack Development.I mostly using java technologies.</h3>
 <!--<div style="text-align:center"><img align="center" src="img/400.webp" object-fit="cover" width="50%"></div>-->
 
 
