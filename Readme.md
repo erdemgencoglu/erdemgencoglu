@@ -1,6 +1,6 @@
 # Hi, I'm Erdem</h1>
 
-📄 I'm working on Full Stack Development.I mostly using java.
+📄 I'm working on Full Stack Development.I mostly using java.<br>
 🔭 I’m currently learning React and Java Spring Framework technologies
 
 <!--<div style="text-align:center"><img align="center" src="img/400.webp" object-fit="cover" width="50%"></div>-->
