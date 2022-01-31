@@ -1,5 +1,8 @@
 # Hi, I'm Erdem</h1>
-### I'm working on Full Stack Development.I mostly using java technologies.</h3>
+
+📄 I'm working on Full Stack Development.I mostly using java.
+🔭 I’m currently learning React and Java Spring Framework technologies
+
 <!--<div style="text-align:center"><img align="center" src="img/400.webp" object-fit="cover" width="50%"></div>-->
 
 
@@ -21,7 +24,6 @@ ______________________________________________
 <a href="https://kotlinlang.org/" target="_blank"> <img src="img/kotlinsvg.svg" alt="kotlins" width="30" height="30"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="img/java-original.svg" alt="java" width="30" height="30"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-<a href="https://dart.dev" target="_blank"> <img src="img/dartlang-icon.svg" alt="dart" width="30" height="30"/> </a> 
 <a href="https://jquery.com/" target="_blank"> <img src="img/jquery.svg" alt="flutter" width="30" height="30"/> </a> 
 </p>
 
