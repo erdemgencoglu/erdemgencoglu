@@ -39,6 +39,7 @@ Learning and improve myself to React and Java Spring Framework technologies
 <!-- Tools -->
 
 <h4 align="left" style="color:black">Tools </h4>
+<p align="left">
 <img height="35" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" />
 <img  height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
@@ -49,7 +50,7 @@ Learning and improve myself to React and Java Spring Framework technologies
 <img height="35" src="https://netbeans.apache.org/images/touch-icon-iphone-retina.png" />
 <img height="35" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <img height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-
+</p>
 <!-- Contact -->
 <p>
 <h5 align="left" style="color:black">Contact</h5>
