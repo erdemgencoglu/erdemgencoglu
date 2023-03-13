@@ -37,7 +37,7 @@ Learning and improve myself to React and Java Spring Framework technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Tools -->
-<p>
+
 <h4 align="left" style="color:black">Tools </h4>
 <img height="35" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" />
 <img  height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -49,7 +49,6 @@ Learning and improve myself to React and Java Spring Framework technologies
 <img height="35" src="https://netbeans.apache.org/images/touch-icon-iphone-retina.png" />
 <img height="35" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <img height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-</p>
 
 <!-- Contact -->
 <p>
