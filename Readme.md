@@ -8,7 +8,7 @@ Learning and improve myself to React and Java Spring Framework technologies
 <h4 align="left" style="color:black">Tech </h4>
 <!-- Tech -->
 <p>
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-65b743?style=flat-square&logo=spring&logoColor=white" /> 
+<img alt="Spring" src="https://img.shields.io/badge/-Spring-4CAF50?style=flat-square&logo=spring&logoColor=white" /> 
 <img alt="Java" src="https://img.shields.io/badge/-Java-EF5350?style=flat-square&logo=java&logoColor=white" /> 
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1b74ba?style=flat-square&logo=kotlin&logoColor=white" /> 
 <img alt="Android" src="https://img.shields.io/badge/-Android-388E3C?style=flat-square&logo=android&logoColor=white" /> 
